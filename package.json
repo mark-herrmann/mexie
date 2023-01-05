@@ -1,0 +1,40 @@
+{
+  "name": "mexie",
+  "version": "0.0.0",
+  "description": "Wrapper for indexeddb detecting manipulation-attacks, using dexie and hmac.",
+  "contributors": [
+    {
+      "name": "mark-herrmann",
+      "email": "github@markherrmann.de"
+    }
+  ],
+  "private": false,
+  "main": "build/lib/index.js",
+  "types": "build/lib/index.d.ts",
+  "author": "Mark Herrmann (mark-herrmann)",
+  "bugs": {
+    "url": "https://github.com/mark-herrmann/mexie/issues"
+  },
+  "homepage": "https://github.com/mark-herrmann/mexie#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "assertthat": "6.5.2",
+    "roboter": "13.2.1",
+    "typescript": "4.9.4"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark-herrmann/mexie.git"
+  },
+  "keywords": [
+    "indexeddb",
+    "hmac",
+    "integrity",
+    "authentic",
+    "tamper",
+    "dexie",
+    "crypto"
+  ],
+  "license": "MIT"
+}
